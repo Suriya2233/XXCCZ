@@ -4,27 +4,27 @@
 
 
 {
-         "name": "SG-T-D-FREE01",
+         "name": "SG-TRUE-FREE01",
          "url": "https://raw.githubusercontent.com/Suriya2233/XXCCZ/main/FREE-SG-01.ovpn"
       }
 ,
 {
-         "name": "SG-T-D-FREE02",
+         "name": "SG-TRUE-FREE02",
          "url": "https://raw.githubusercontent.com/Suriya2233/XXCCZ/main/FREE-SG-02.ovpn"
       }
 ,
 {
-         "name": "SG-T-D-FREE03",
+         "name": "SG-TRUE-FREE03",
          "url": "https://raw.githubusercontent.com/Suriya2233/XXCCZ/main/FREE-SG-03.ovpn"
       }
 ,
 {
-         "name": "SG-T-D-FREE04",
+         "name": "SG-TRUE-FREE04",
          "url": "https://raw.githubusercontent.com/Suriya2233/XXCCZ/main/FREE-SG-04.ovpn"
       }
 ,
 {
-         "name": "SG-T-D-FREE05",
+         "name": "SG-TRUE-FREE05",
          "url": "https://raw.githubusercontent.com/Suriya2233/XXCCZ/main/FREE-SG-05.ovpn"
       }
 
@@ -42,5 +42,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
